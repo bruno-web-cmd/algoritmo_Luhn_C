@@ -1,1 +1,3 @@
-# Calculadora Simples
+# Calculadora Simples: (Apenas com 2 algarismos).
+# Calculadora Simples feita em linguagem C   com finalidade de Testar o Git/Github.
+by: Bruh-web-cmd.
