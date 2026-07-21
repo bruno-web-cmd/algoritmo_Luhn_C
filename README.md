@@ -1,6 +1,6 @@
 # 💳 Validador de Cartão de Crédito - Algoritmo de Luhn em C
 
-Este é um programa simples desenvolvido em **C** que verifica a validade de um número de cartão de crédito utilizando o **Algoritmo de Luhn** (também conhecido como algoritmo "módulu 10").
+Este é um programa simples desenvolvido em **C** que verifica a validade de um número de cartão de crédito utilizando o **Algoritmo de Luhn** (também conhecido como algoritmo "módulo 10").
 
 ---
 
