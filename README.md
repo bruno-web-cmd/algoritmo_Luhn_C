@@ -6,7 +6,7 @@ Este é um programa simples desenvolvido em **C** que verifica a validade de um 
 
 ## 📌 Como funciona o Algoritmo de Luhn?
 
-O Algoritmo de Luhn é uma fórmula de soma de verificação (*checksum*) utilizada para validar diversos números de identificação, como números de cartões de crédito (Visa, Mastercard, etc.).
+O Algoritmo de Luhn é uma fórmula de soma de verificação  utilizada para validar diversos números de identificação, como números de cartões de crédito (Visa, Mastercard, etc.).
 
 A lógica aplicada no código é:
 1. Começa do **último dígito** e percorre a sequência numéirica da direita para a esquerda.
